@@ -55,19 +55,19 @@ AIFindr is a modern web application that uses AI to match people based on intere
 aifindr/
 ├── public/                  # 📂 Static assets
 
-│   ├── assets             # 🎨 Images, fonts, etc.
+├── assets             # 🎨 Images, fonts, etc.
 
-│   ├── components         # 🧩 Reusable UI components
+├── components         # 🧩 Reusable UI components
 
-│   ├── pages             # 📄 Page-level components and routes
+├── pages             # 📄 Page-level components and routes
 
-│   ├── services            # ⚙️ API services and business logic
+├── services            # ⚙️ API services and business logic
 
-│   ├── types               # 🧾 TypeScript type definitions
+├── types               # 🧾 TypeScript type definitions
 
-│   ├── utils              # 🧠 Helper functions and utilities
+├── utils              # 🧠 Helper functions and utilities
 
-│   └── App.tsx              # 🪝 Root React component
+└── App.tsx              # 🪝 Root React component
 
 ├── index.html               # 🌐 Entry HTML file
 
@@ -76,7 +76,7 @@ aifindr/
 └── tailwind.config.ts       # 🎛️ Tailwind CSS configuration
 
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License – see the LICENSE file for details.
 
